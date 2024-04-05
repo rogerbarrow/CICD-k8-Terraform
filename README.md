@@ -19,6 +19,7 @@
 # Step 6 run Terraform
     * terraform init
     * terraform plan
-    * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/30044cb7-346c-49c2-b86d-31d275895428)
+    
+  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/30044cb7-346c-49c2-b86d-31d275895428)
 
 
