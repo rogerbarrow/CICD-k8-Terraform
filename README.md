@@ -26,5 +26,9 @@
 # Login to AWS to verify EC2 is runnning
  *![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/d4218d66-9d00-47df-9db5-4793ae187aea)
  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/5c459695-c232-42be-b41a-9d6b43efbafe)
+# Step 7 SSH into the Instance 
+![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/2872cde7-7f40-48bb-b77e-5266cf4541e3)
+* ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/f2eeccf5-ba32-4baa-a3d2-65b274aaa3cc)
+
 
 
