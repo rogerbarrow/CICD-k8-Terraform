@@ -16,4 +16,9 @@
 # Step 5 Login to AWS 
 * with Your acess Key and Secret Key
 * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/aefe37db-c126-421f-a448-28cb5f1ef7b6)
+# Step 6 run Terraform
+    * terraform init
+    * terraform plan
+    ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/30044cb7-346c-49c2-b86d-31d275895428)
+
 
