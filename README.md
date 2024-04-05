@@ -23,5 +23,7 @@
     
   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/30044cb7-346c-49c2-b86d-31d275895428)
 * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/2a5dac22-0e87-4506-b2c7-3e3304f5735f)
+# Login to AWS to verify EC2 is runnning
+ *![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/d4218d66-9d00-47df-9db5-4793ae187aea)
 
 
