@@ -36,5 +36,8 @@
  * Trivy is install
  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/9fd858e4-9a60-436e-8b85-af67a7f502db)
 
+# Step 7 Configure Jenkins
+  *get the Public IP and access port 8080
+  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/ee6f8053-0cc5-4ec2-a0c9-69c96e5c2ec3)
 
 
