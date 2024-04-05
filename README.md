@@ -54,6 +54,8 @@
  * install Docker
  * Install sonar
  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/04c9ed38-a6ef-4633-b4a6-46e5f378776c)
-# Configure SonarQube and Integrate SonarQube with Jenksin
+# Configure SonarQube and Integrate SonarQube with Jenkins
   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/5b79b714-2fbf-4140-aef6-9ed10ba10784)
+  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/59f091b5-a2b3-4103-928f-40b2da5d0780)
+# Create Jenkins pipeline to build and push dokcer image to Dockerhub
 
