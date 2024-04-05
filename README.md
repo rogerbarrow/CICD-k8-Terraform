@@ -19,7 +19,9 @@
 # Step 6 run Terraform
     * terraform init
     * terraform plan
+    * terraform apply -auto-approve
     
   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/30044cb7-346c-49c2-b86d-31d275895428)
+* ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/2a5dac22-0e87-4506-b2c7-3e3304f5735f)
 
 
