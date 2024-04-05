@@ -6,7 +6,9 @@
   * Create main.tf file with correct AMI for your region
  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/391d0338-7094-45a0-9d9e-cc9b4259d134)
 # Step 3
- * Create a provicer.tf file
+ * Create a provider.tf file
   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/d6b99a5b-eaf2-4d8c-aa6f-264e9b6993af)
   # Step 4 
   * Create a install.sh file
+  * this will update package, Install Docker, Install jdk, Jenkins and run SonarQube
+![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/57dd36b5-a96f-4b66-9cc9-bbb97411a3ee)
