@@ -30,5 +30,11 @@
 ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/2872cde7-7f40-48bb-b77e-5266cf4541e3)
 * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/f2eeccf5-ba32-4baa-a3d2-65b274aaa3cc)
 
+# from the Script
+ * Docker is install
+ * Jenkins is install
+ * Trivy is install
+ * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/9fd858e4-9a60-436e-8b85-af67a7f502db)
+
 
 
