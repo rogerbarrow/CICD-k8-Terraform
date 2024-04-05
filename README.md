@@ -48,4 +48,12 @@
    *  Docker
    *  Node.js
    * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/dc083e1e-3e32-4280-ba82-3c108c61ad5d)
+# Step 8 Download tools
+ * Install nodejs
+ * Install JDK
+ * install Docker
+ * Install sonar
+ 
+ 
+![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/04c9ed38-a6ef-4633-b4a6-46e5f378776c)
 
