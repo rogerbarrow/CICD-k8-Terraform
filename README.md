@@ -25,5 +25,6 @@
 * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/2a5dac22-0e87-4506-b2c7-3e3304f5735f)
 # Login to AWS to verify EC2 is runnning
  *![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/d4218d66-9d00-47df-9db5-4793ae187aea)
+ * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/5c459695-c232-42be-b41a-9d6b43efbafe)
 
 
