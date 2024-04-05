@@ -13,3 +13,7 @@
   * Create a install.sh file
   * this will update package, Install Docker, Install jdk, Jenkins and run SonarQube
 ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/57dd36b5-a96f-4b66-9cc9-bbb97411a3ee)
+# Step 5 Login to AWS 
+* with Your acess Key and Secret Key
+* ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/aefe37db-c126-421f-a448-28cb5f1ef7b6)
+
