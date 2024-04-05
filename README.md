@@ -40,4 +40,12 @@
   *get the Public IP and access port 8080
   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/ee6f8053-0cc5-4ec2-a0c9-69c96e5c2ec3)
 
+![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/95bbc921-201b-46f3-9bf0-288d97502943)
+ lets down the required plugins
+   * eclipse temurin install
+   * Sonarqube Scanner
+   *  Sonar gates
+   *  Docker
+   *  Node.js
+   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/dc083e1e-3e32-4280-ba82-3c108c61ad5d)
 
