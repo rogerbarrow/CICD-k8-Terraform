@@ -59,4 +59,5 @@
   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/59f091b5-a2b3-4103-928f-40b2da5d0780)
 # Create Jenkins pipeline to build and push dokcer image to Dockerhub
   * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/6696bc3a-ae1f-4961-bdc6-01babda053b9)
+  * ![image](https://github.com/rogerbarrow/CICD-k8-Terraform/assets/46138186/10017ce0-6fe0-4eb2-acbe-13db9b037027)
 
